@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.CountCharsInAString", "01.CountCharsInAString\01.CountCharsInAString.csproj", "{CECE180A-ED88-4573-8CAC-FEFA30F80D80}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.AMinerTask", "02.AMinerTask\02.AMinerTask.csproj", "{F928B70C-2498-4B7B-8A66-9B316E112E6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Orders", "03.Orders\03.Orders.csproj", "{9B34268B-9E1D-46BA-98C0-1FBE1C4AD994}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.SoftUniParking", "04.SoftUniParking\04.SoftUniParking.csproj", "{6C40F3F1-2462-4CC3-B8A9-17C29586F551}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Courses", "05.Courses\05.Courses.csproj", "{E6D8D68B-ADE6-4EE5-A65E-C529B361EACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.StudentAcademy", "06.StudentAcademy\06.StudentAcademy.csproj", "{47C3AB1C-CA3E-4EF3-8D70-F2EFD2D5767E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CompanyUsers", "07.CompanyUsers\07.CompanyUsers.csproj", "{9BDC24A2-9B22-4DC3-9AAB-3E4F08D660E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CECE180A-ED88-4573-8CAC-FEFA30F80D80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CECE180A-ED88-4573-8CAC-FEFA30F80D80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CECE180A-ED88-4573-8CAC-FEFA30F80D80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CECE180A-ED88-4573-8CAC-FEFA30F80D80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F928B70C-2498-4B7B-8A66-9B316E112E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F928B70C-2498-4B7B-8A66-9B316E112E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F928B70C-2498-4B7B-8A66-9B316E112E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F928B70C-2498-4B7B-8A66-9B316E112E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B34268B-9E1D-46BA-98C0-1FBE1C4AD994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B34268B-9E1D-46BA-98C0-1FBE1C4AD994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B34268B-9E1D-46BA-98C0-1FBE1C4AD994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B34268B-9E1D-46BA-98C0-1FBE1C4AD994}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C40F3F1-2462-4CC3-B8A9-17C29586F551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C40F3F1-2462-4CC3-B8A9-17C29586F551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C40F3F1-2462-4CC3-B8A9-17C29586F551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C40F3F1-2462-4CC3-B8A9-17C29586F551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6D8D68B-ADE6-4EE5-A65E-C529B361EACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6D8D68B-ADE6-4EE5-A65E-C529B361EACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6D8D68B-ADE6-4EE5-A65E-C529B361EACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6D8D68B-ADE6-4EE5-A65E-C529B361EACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C3AB1C-CA3E-4EF3-8D70-F2EFD2D5767E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C3AB1C-CA3E-4EF3-8D70-F2EFD2D5767E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C3AB1C-CA3E-4EF3-8D70-F2EFD2D5767E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C3AB1C-CA3E-4EF3-8D70-F2EFD2D5767E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BDC24A2-9B22-4DC3-9AAB-3E4F08D660E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BDC24A2-9B22-4DC3-9AAB-3E4F08D660E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BDC24A2-9B22-4DC3-9AAB-3E4F08D660E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BDC24A2-9B22-4DC3-9AAB-3E4F08D660E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECA92EA3-5D3C-450E-AC70-E22FFE8947EA}
+	EndGlobalSection
+EndGlobal
